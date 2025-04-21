@@ -1,4 +1,5 @@
 #Weather Pattern Prediction Dashboard
+
 An interactive dashboard for predicting temperature trends in major cities of Thailand using historical weather data from the Open-Meteo API. The project utilizes Machine Learning (Linear Regression) to forecast future temperatures and visualizes the results with Streamlit.
 
 Key Features
